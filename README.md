@@ -17,6 +17,9 @@ Column E... and so on up to a maximum of over 8000 parameters.
 - Carpet plot to visualize calculated hourly output.
 - Includes rudimentary error-checking, such as wrong date-format, or dates/values pasted into the wrong column.
 
+### History
+- This tool is a further development of the original spreadsheet tool 'BEMS-hourly-values'. The name was changed because 'Time-Series Explorer" can output any time step, and has more general application, not only for BEMS.
+
 ### Installation and activation
 - Simply download the spreadsheet file and open it in Microsoft Excel. No installation or registration is needed.
 - However, this is a Visual Basic macro-enabled spreadhseet. You must activate macros for it to function: 
